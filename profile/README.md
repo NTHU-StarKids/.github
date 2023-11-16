@@ -2,12 +2,12 @@
 
 ## Introduction
 
-Founded on November 29, 1971, the NTHU Astronomy Club consists of a group of enthusiasts passionate about exploring the mysteries of the vast cosmos. Recognized as a founding member of the Astronoy Club Union of University in Taiwan (中華民國全國大學天文社聯盟), the club plays a pivotal role in the community.
+Founded on November 29, 1971, the NTHU Astronomy Club consists of a group of enthusiasts passionate about exploring the mysteries of the vast cosmos. Recognized as a founding member of the Astronomy Club Union of University in Taiwan (中華民國全國大學天文社聯盟), the club plays a pivotal role in the community.
 
 ## Activities and Achievements
 
 - Organizes the renowned "StarKids Camp" at National Tsing Hua University for more than 20 years.
-- Founding member of the Astronoy Club Union of University in Taiwan (中華民國全國大學天文社聯盟).
+- Founding member of the Astronomy Club Union of University in Taiwan (中華民國全國大學天文社聯盟).
 - Equipped with advanced astronomical instruments including guiding systems, four main telescopes with over 10 cm diameter, the high-precision Takahashi EM-200 equatorial mount, and a Nikon Z6 II camera modified for astrophotography.
 
 ## Mission and Focus
